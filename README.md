@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ruwindu Hansaja</h1>
-<h3 align="center">I'm Software Engineer student 🌟.</h3>
 
 <br>
 
@@ -12,7 +11,12 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
+- ## 🚀 About Me
 - 🌱 I’m currently learning Web Development and other programming languages
+- 🎓 Graduate of HND in Software Engineering from AIBS Institute
+- 📚 Currently studying Software Engineering at ICET Institute
+- 💻 Passionate about coding, software development, and learning new technologies
+- 🌱 Always improving my skills in programming and modern software development  
 
 - 📫 How to reach me **hansajaliyanaarachchi@gmail.com**
 
