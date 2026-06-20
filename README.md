@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruwindu Hansaja</h1>
 
 <br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;fullstrak+engineering+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+</p>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
@@ -22,7 +25,6 @@
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-- 📚 I am currently studying at ICET Institute
 
 
 <br>
